@@ -11,6 +11,7 @@
   "dependencies": {
     "koa": "^2.2.0",
     "koa-router": "^7.2.1",
+    "koa2-cors": "^2.0.6",
     "promise-mysql": "^3.0.1"
   }
 }
